@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: 839a8807a16ca164485ecb34b948a7e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2801421420449848314
+    second: ManHunt_Head
+  - first:
+      213: -432949416431594209
+    second: ManHunt_Body
+  - first:
+      213: 6934262143743751081
+    second: ManHunt_RigthShoulder
+  - first:
+      213: 8999499323704512592
+    second: ManHunt_LeftShoulder
+  - first:
+      213: -6884010141772138380
+    second: ManHunt_RigthLeg
+  - first:
+      213: -947704691704619027
+    second: ManHunt_LeftLeg
+  - first:
+      213: -1329818866215383788
+    second: ManHunt_RightArm
+  - first:
+      213: -9185816514984568135
+    second: ManHunt_LeftArm
+  - first:
+      213: -6121896105007891801
+    second: ManHunt_RigthFoot
+  - first:
+      213: 4641543415095936561
+    second: ManHunt_LeftFoot
+  - first:
+      213: 8307992729782898040
+    second: ManHunt_Sniper
+  - first:
+      213: -8989584033938512446
+    second: ManHunt_ShootGun
+  - first:
+      213: -2233897826981365183
+    second: ManHunt_Gun
+  - first:
+      213: -2042118627094177812
+    second: ManHunt_Bullet
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ManHunt_Head
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 770
+        width: 140
+        height: 168
+      alignment: 9
+      pivot: {x: 0.50679374, y: 0.0017907278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb551870f5a0e620800000000000000
+      internalID: 2801421420449848314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManHunt_Body
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 735
+        width: 182
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5209039, y: 0.495617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15d1e3bccaddf9f0800000000000000
+      internalID: -432949416431594209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManHunt_RigthShoulder
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 497
+        width: 77
+        height: 140
+      alignment: 9
+      pivot: {x: 0.98695034, y: 0.8149462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3f8413ea27b3060800000000000000
+      internalID: 6934262143743751081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManHunt_LeftShoulder
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 497
+        width: 77
+        height: 140
+      alignment: 9
+      pivot: {x: 0.058701355, y: 0.8309688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05096c914f4a4ec70800000000000000
+      internalID: 8999499323704512592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManHunt_RigthLeg
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 483
+        width: 77
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7424685, y: 0.8572757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4783c75cf351770a0800000000000000
+      internalID: -6884010141772138380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManHunt_LeftLeg
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 476
+        width: 77
+        height: 147
+      alignment: 9
+      pivot: {x: 0.23620051, y: 0.84890395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def99f2aa9319d2f0800000000000000
+      internalID: -947704691704619027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManHunt_RightArm
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 301
+        width: 63
+        height: 175
+      alignment: 9
+      pivot: {x: 0.45766413, y: 0.94960624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d8e9f69c88b8de0800000000000000
+      internalID: -1329818866215383788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManHunt_LeftArm
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 301
+        width: 63
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9419859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba9d645c8c658080800000000000000
+      internalID: -9185816514984568135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManHunt_RigthFoot
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 329
+        width: 91
+        height: 133
+      alignment: 9
+      pivot: {x: 0.51352334, y: 0.9533854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa382d7de7aa0ba0800000000000000
+      internalID: -6121896105007891801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManHunt_LeftFoot
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 322
+        width: 91
+        height: 133
+      alignment: 9
+      pivot: {x: 0.51352364, y: 0.9626382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136c852e4231a6040800000000000000
+      internalID: 4641543415095936561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManHunt_Sniper
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 154
+        width: 448
+        height: 77
+      alignment: 9
+      pivot: {x: 0.04381631, y: 0.32135487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dcc3fbe5beb4370800000000000000
+      internalID: 8307992729782898040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManHunt_ShootGun
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 161
+        width: 217
+        height: 70
+      alignment: 9
+      pivot: {x: 0.16040911, y: 0.3596357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5629233f49e3380800000000000000
+      internalID: -8989584033938512446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManHunt_Gun
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 21
+        width: 91
+        height: 63
+      alignment: 9
+      pivot: {x: 0.28405493, y: 0.39082822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a324613c99ff0e0800000000000000
+      internalID: -2233897826981365183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManHunt_Bullet
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 49
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7d7d2adefe8a3e0800000000000000
+      internalID: -2042118627094177812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
