@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Eagle-Hunt\\Eagle-Hunt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D17005BE-3A45-7191-819B-0A465074135B}|Assembly-CSharp.csproj|c:\\users\\acer\\eagle-hunt\\eagle-hunt\\assets\\01_scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17005BE-3A45-7191-819B-0A465074135B}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Eagle-Hunt\\Eagle-Hunt\\Assets\\01_Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\ACER\\Eagle-Hunt\\Eagle-Hunt\\Assets\\01_Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:53:24.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
