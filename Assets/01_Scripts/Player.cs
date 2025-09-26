@@ -49,11 +49,11 @@ public class Player : MonoBehaviour
                 {
                     Instantiate(impact, raycastHit2D.point, Quaternion.identity);
                 }
-            }
+            }        
         
                 
                 
-                }
+        }
     }
     private bool GetIsGrounded()
     {

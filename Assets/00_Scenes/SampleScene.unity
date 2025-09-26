@@ -133,9 +133,9 @@ GameObject:
   m_Component:
   - component: {fileID: 115358213}
   - component: {fileID: 115358214}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ManHunt_Body
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -537,7 +537,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1106895263}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ShootPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -568,9 +568,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1200958214}
   - component: {fileID: 1200958215}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ManHunt_RigthShoulder
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -653,7 +653,7 @@ GameObject:
   - component: {fileID: 1245035788}
   - component: {fileID: 1245035787}
   - component: {fileID: 1245035785}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -749,7 +749,7 @@ MonoBehaviour:
   colectedItems: 0
   lifes: []
   gameOverScreen: {fileID: 0}
-  damageSound: {fileID: 0}
+  damageSound: {fileID: 8300000, guid: b516199054ab2a146a0026431fa73906, type: 3}
   shootPoint: {fileID: 1106895263}
   range: 15
   impact: {fileID: 7972984743794641225, guid: 843f39e8374000a488ed02232548a8c3, type: 3}
@@ -763,7 +763,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1273894474}
   - component: {fileID: 1273894475}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ManHunt_LeftArm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -845,9 +845,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1335504513}
   - component: {fileID: 1335504514}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ManHunt_Head
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -928,7 +928,7 @@ GameObject:
   - component: {fileID: 1403690960}
   - component: {fileID: 1403690961}
   - component: {fileID: 1403690962}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ManHunt_Gun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1032,7 +1032,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1848090408}
   - component: {fileID: 1848090409}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ManHunt_RigthFoot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1114,9 +1114,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1896073204}
   - component: {fileID: 1896073205}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ManHunt_LeftLeg
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1197,9 +1197,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1896816177}
   - component: {fileID: 1896816178}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Body
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1255,7 +1255,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1925442154}
   - component: {fileID: 1925442155}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ManHunt_RightArm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1338,7 +1338,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1984378578}
   - component: {fileID: 1984378579}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ManHunt_LeftShoulder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1421,7 +1421,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1985964860}
   - component: {fileID: 1985964861}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ManHunt_LeftFoot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1503,9 +1503,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2061958235}
   - component: {fileID: 2061958236}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ManHunt_RigthLeg
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
